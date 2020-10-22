@@ -1,0 +1,10 @@
+C:\Users\WWW\source\repos\FootballArea\FootballArea\bin\Debug\FootballArea.exe.config
+C:\Users\WWW\source\repos\FootballArea\FootballArea\bin\Debug\FootballArea.exe
+C:\Users\WWW\source\repos\FootballArea\FootballArea\bin\Debug\FootballArea.pdb
+C:\Users\WWW\source\repos\FootballArea\FootballArea\obj\Debug\FootballArea.csprojAssemblyReference.cache
+C:\Users\WWW\source\repos\FootballArea\FootballArea\obj\Debug\FootballArea.Form1.resources
+C:\Users\WWW\source\repos\FootballArea\FootballArea\obj\Debug\FootballArea.Properties.Resources.resources
+C:\Users\WWW\source\repos\FootballArea\FootballArea\obj\Debug\FootballArea.csproj.GenerateResource.cache
+C:\Users\WWW\source\repos\FootballArea\FootballArea\obj\Debug\FootballArea.csproj.CoreCompileInputs.cache
+C:\Users\WWW\source\repos\FootballArea\FootballArea\obj\Debug\FootballArea.exe
+C:\Users\WWW\source\repos\FootballArea\FootballArea\obj\Debug\FootballArea.pdb
