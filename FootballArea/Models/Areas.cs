@@ -17,16 +17,16 @@ namespace FootballArea.Models
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public Areas()
         {
-            this.Reserve = new HashSet<Reserve>();
+            this.Reservation = new HashSet<Reservation>();
         }
     
         public int ID { get; set; }
         public string AreaName { get; set; }
         public string AreaNumber { get; set; }
-        public string Price { get; set; }
+        public decimal Price { get; set; }
         public string Status { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Reserve> Reserve { get; set; }
+        public virtual ICollection<Reservation> Reservation { get; set; }
     }
 }
